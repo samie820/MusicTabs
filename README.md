@@ -1,6 +1,6 @@
 # client
 
-> A Tabs project for songs
+> A Tabs project for songs running on express and vue, This should be awesome
 
 ## Build Setup
 
